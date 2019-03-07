@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yuva Jay Ho</string>
+    <string name="about_mp">about mp</string>
+    <string name="about_mla_s">about mla\'s</string>
+    <string name="completed_schemes">Completed Schemes</string>
+    <string name="feedback">feedback</string>
+    <string name="guntur_parliamentary_constituency">Guntur Parliamentary Constituency</string>
+    <string name="exit">exit</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="booth_no">Booth No.</string>
+    <string name="email_id">email id</string>
+    <string name="tdp_membership_no">tdp membership no.</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="area">Area</string>
+    <string name="constituency">Constituency</string>
+    <string name="about_guntur_mp">About Guntur MP</string>
+    <string name="profile">Profile</string>
+    <string name="speeches_in_parliament1">Speeches in Parliament</string>
+    <string name="schedules1">Schedules</string>
+    <string name="guntur_m_p_profile">Guntur M.P Profile</string>
+    <string name="todo">TODO</string>
+    <string name="galla_jayadev">Galla Jayadev</string>
+    <string name="jayadev_was_born_in_diguvamagham_chittoor_andhra_pradesh_to_ramachandra_naidu_galla_and_aruna_kumari_galla_his_father_is_an_industrialist_who_founded_the_amara_raja_group_his_mother_aruna_kumari_galla_is_a_former_mla_from_chandragiri_constituency_and_was_a_minister_in_the_andhra_pradesh_state_government_for_several_years_his_grandfather_paturi_rajagopala_naidu_was_a_freedom_fighter_close_associate_of_acharya_n_g_ranga_and_a_former_indian_parliamentarian_along_with_his_parents_jayadev_moved_to_usa_where_he_lived_for_around_22_years_he_studied_politics_and_economics_at_the_university_of_illinois">Jayadev was born in Diguvamagham, Chittoor, Andhra Pradesh to Ramachandra Naidu Galla and Aruna Kumari Galla. His father is an industrialist who founded the Amara Raja Group. His mother Aruna Kumari Galla is a former MLA from Chandragiri constituency and was a minister in the Andhra Pradesh state government for several years. His grandfather Paturi Rajagopala Naidu was a freedom fighter, close associate of Acharya N G Ranga and a former Indian parliamentarian. Along with his parents, Jayadev moved to USA, where he lived for around 22 years. He studied politics and economics at the University of Illinois.</string>
+    <string name="speeches_in_parliament">Speeches in Parliament</string>
+    <string name="home">Home</string>
+    <string name="activities_events">Activities / Events</string>
+    <string name="schedules">Schedules</string>
+</resources>

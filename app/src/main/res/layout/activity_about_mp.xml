@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Yellow"
+    tools:context=".AboutMP">
+
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="106dp"
+        android:text="@string/guntur_m_p_profile"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="164dp"
+        android:layout_height="172dp"
+        android:layout_above="@+id/textView8"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginEnd="125dp"
+        android:layout_marginRight="125dp"
+        android:layout_marginBottom="-3dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/gallajayadev" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="265dp"
+        android:text="@string/galla_jayadev"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="404dp"
+        android:layout_height="190dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="71dp"
+        android:text="@string/jayadev_was_born_in_diguvamagham_chittoor_andhra_pradesh_to_ramachandra_naidu_galla_and_aruna_kumari_galla_his_father_is_an_industrialist_who_founded_the_amara_raja_group_his_mother_aruna_kumari_galla_is_a_former_mla_from_chandragiri_constituency_and_was_a_minister_in_the_andhra_pradesh_state_government_for_several_years_his_grandfather_paturi_rajagopala_naidu_was_a_freedom_fighter_close_associate_of_acharya_n_g_ranga_and_a_former_indian_parliamentarian_along_with_his_parents_jayadev_moved_to_usa_where_he_lived_for_around_22_years_he_studied_politics_and_economics_at_the_university_of_illinois"
+        android:textColor="@color/Black" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginBottom="12dp"
+        android:text="Speeches in
+Parliament"
+        android:textSize="12sp"
+        android:textColor="@color/Yellow"
+        android:background="@color/Black"/>
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="110dp"
+        android:text="@string/schedules"
+        android:textColor="@color/Yellow"
+        android:background="@color/Black"/>
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginRight="110dp"
+        android:background="@color/Black"
+        android:text="activities
+/events"
+        android:textColor="@color/Yellow" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignEnd="@+id/textView9"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="6dp"
+        android:text="@string/home"
+        android:textColor="@color/Yellow"
+        android:background="@color/Black"/>
+
+
+</RelativeLayout>
